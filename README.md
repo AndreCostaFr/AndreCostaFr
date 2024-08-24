@@ -23,7 +23,6 @@ I'm a passionate Quality Assurance Engineer and Cybersecurity Enthusiast with ex
 
 ## 📚 Certifications
 
-- **Certified in Cybersecurity (CC) - ISC2**
 - **Google Cybersecurity Professional Certificate**
 - **Oracle Next Education (ONE)**
 
