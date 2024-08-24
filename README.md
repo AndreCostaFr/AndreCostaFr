@@ -8,6 +8,7 @@ I'm a passionate Quality Assurance Engineer and Cybersecurity Enthusiast with ex
 - 💼 **Current Role**: Quality Assurance Engineer
 - 🔐 **Interests**: Cybersecurity, Automation, Network Management, and Blue Team techniques.
 - 💻 **Languages**: Python, Java, JavaScript, and C.
+- 🛠 **Automation Frameworks**: Selenium, Webdriver.IO and Cypress.
 
 ## 🛠 Skills
 
