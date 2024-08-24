@@ -1,4 +1,4 @@
-# 👋 Hello, I'm André Costa Freitas
+# 👋 Hello, I'm André Costa
 
 ## 🚀 About Me
 
