@@ -29,7 +29,7 @@ I'm a passionate Quality Assurance Engineer and Cybersecurity Enthusiast with ex
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/andrecfreitas/)
-- andrefreitas2105@gmail.com
+- [Email](mailto:andrefreitas2105@gmail.com)
   
 ---
 
