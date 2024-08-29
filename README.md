@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Quality Assurance Engineer and Cybersecurity Enthusiast with experience in test automation, scripting, and security analysis. My journey in the tech world has been driven by a strong curiosity and a desire to continuously learn and grow.
+I'm a passionate Quality Assurance Engineer and Cybersecurity Enthusiast with experience in test automation, scripting, and security analysis. My journey in the tech world has been driven by a strong curiosity and a desire to continuously learn and grow. I'm currently pursuing the CompTIA Security+ certification.
 
 - 🎓 **Current Studies**: I'm currently pursuing a degree in Cybersecurity.
 - 💼 **Current Role**: Quality Assurance Engineer
