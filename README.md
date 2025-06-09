@@ -36,7 +36,6 @@ I'm passionate about technology and information security. I specialize in securi
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/andrecfreitas)  
-- 📧 Email: **[your-email-here]**
 
 ---
 
