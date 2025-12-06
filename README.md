@@ -8,7 +8,7 @@ I'm passionate about technology and information security. I specialize in securi
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Bachelor’s degree in Information Security (in progress)  
+- 🎓 **Education:** Bachelor’s degree in Information Security 
 - 💼 **Current Role:** Jr Information Security Analyst at **Topaz**  
 - 🔐 **Interests:** Cybersecurity (Blue Team & Penetration Testing), Fraud Prevention, Malware Analysis, Network Security  
 - 💻 **Programming Languages:** Python, JavaScript, Java, C  
